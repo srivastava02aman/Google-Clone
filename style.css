@@ -180,6 +180,9 @@ footer {
     background-color: #F2F2F2;
     height: 100px;
 }
+.footer-cloner {
+align-items: center;
+}
 
 .footer-content {
     display: flex;
