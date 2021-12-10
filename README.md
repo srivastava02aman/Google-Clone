@@ -1,5 +1,5 @@
 # Google clone v2.0
-<b>Technolgy Use.</b>
+<b>Technolgy Used.</b>
 
 <li>HTML</li>
 <li>CSS</li>
