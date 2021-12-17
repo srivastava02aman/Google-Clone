@@ -1,5 +1,7 @@
 const searchInput = document.querySelector("#search-input");
 
+searchButton.addEventListener('click',search)
+
 searchInput.addEventListener("keydown", function(event) {
     if(event.code === "Enter") {
         search();
