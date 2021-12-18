@@ -1,6 +1,6 @@
 const searchInput = document.querySelector("#search-input");
 
-searchButton.addEventListener('click',search)
+//searchButton.addEventListener('click',search)  //issue with the code..
 
 searchInput.addEventListener("keydown", function(event) {
     if(event.code === "Enter") {
