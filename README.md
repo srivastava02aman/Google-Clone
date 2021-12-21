@@ -1,4 +1,4 @@
-# Google Clone v2.0
+# Google Clone
 <b>Technolgy Used.</b>
 
 <li>HTML</li>
